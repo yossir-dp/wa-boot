@@ -1,0 +1,12 @@
+2022/10/16-16:02:39.902 8e03 Reusing MANIFEST /Users/yossirivkin/Documents/GitHub/wzp-boot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/16-16:02:39.915 8e03 Recovering log #98
+2022/10/16-16:02:39.955 8e03 Reusing old log /Users/yossirivkin/Documents/GitHub/wzp-boot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000098.log 
+2022/10/16-16:02:55.780 af03 Level-0 table #105: started
+2022/10/16-16:02:55.821 af03 Level-0 table #105: 1172851 bytes OK
+2022/10/16-16:02:55.878 af03 Delete type=0 #98
+2022/10/16-16:02:55.932 af03 Compacting 1@1 + 3@2 files
+2022/10/16-16:02:56.018 af03 Generated table #106@1: 33198 keys, 2248842 bytes
+2022/10/16-16:02:56.087 af03 Generated table #107@1: 27905 keys, 2252353 bytes
+2022/10/16-16:02:56.147 af03 Generated table #108@1: 54346 keys, 1372355 bytes
+2022/10/16-16:02:56.147 af03 Compacted 1@1 + 3@2 files => 5873550 bytes
+2022/10/16-16:02:56.183 af03 compacted to: files[ 0 0 3 0 0 0 0 ]
